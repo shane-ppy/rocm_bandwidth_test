@@ -1,0 +1,10 @@
+{
+    "cmake.debugConfig": {
+        "test": {
+            "cwd": {
+
+            }
+        }
+    },
+    "github.gitAuthentication": false
+}
